@@ -1,0 +1,10 @@
+[package]
+name = "poet"
+version = "0.1.0"
+authors = ["micouy <szpontaniczny@gmail.com>", "hanka szklanka"]
+edition = "2018"
+
+[dependencies]
+tui = "0.6.1"
+termion = "1.5"
+unicode-width = "*"
